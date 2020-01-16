@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # SMJNewProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
@@ -29,3 +30,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # smjProject
 >>>>>>> a0c137c3aed4188ce47131f837414bad39234010
+=======
+# SmjPRoJECTNew
+>>>>>>> 1b817b09fdb8499cdfce81960849625d5f535fe0
